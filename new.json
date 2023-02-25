@@ -1,0 +1,10 @@
+{
+	"FIO":{
+			"Surname": "Trunov",
+			"Name": "Dmitry",
+			"Grandname": "Yurievich"
+		},
+	"Age": 35,
+	"Home animals": 2,
+	"Future salary": "2000$"
+}
