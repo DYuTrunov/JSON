@@ -1,0 +1,15 @@
+{
+	"Favorite movies":{
+					"First": "Die hard",
+					"Second": "Alien",
+					"Third": "It"
+				},
+	"Favorite TV Shows":{
+					"First": "Gotham",
+					"Second": "Sesame Street",
+					"Third": "The Sopranos"
+				   },
+	"Favorite eat": "fried chicken",
+	"Favorite season": "summer",
+	"Favorite country to travel": "Thailand"
+}
