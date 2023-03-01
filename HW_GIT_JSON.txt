@@ -64,11 +64,11 @@ git add .
 git commit -m "Add preferences and skills"
 git push
 # 16. На веб интерфейсе создать файл bug_report.json.
-Add file->Create new file->bug_reports.json
+Add file->Create new file->bug_report.json
 # 17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 Add commit->Commit changes
 # 18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
-Open bug_reoprts.json->Edit file
+Open bug_report.json->Edit file
 # 19. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 Add commit->Commit changes
 # 20. Синхронизировать внешний и локальный репозиторий JSON
